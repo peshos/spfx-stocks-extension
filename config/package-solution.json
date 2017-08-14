@@ -1,0 +1,11 @@
+{
+  "solution": {
+    "name": "spfx-stocks-extension-client-side-solution",
+    "id": "1b731ee7-2c82-484c-9947-c24d6268b13d",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-stocks-extension.sppkg"
+  }
+}

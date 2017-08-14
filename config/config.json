@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/extensions/spfxStocksExtension/SpfxStocksExtensionApplicationCustomizer.js",
+      "manifest": "./src/extensions/spfxStocksExtension/SpfxStocksExtensionApplicationCustomizer.manifest.json",
+      "outputPath": "./dist/spfx-stocks-extension.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "spfxStocksExtensionStrings": "extensions/spfxStocksExtension/loc/{locale}.js"
+  }
+}
