@@ -21,4 +21,8 @@ This package produces the following:
 
 gulp serve --nobrowser
 
+### Sample output
+
+![Sample output](https://github.com/peshos/spfx-stocks-extension/blob/master/assets/outputExample.JPG)
+
 ### Blog description
