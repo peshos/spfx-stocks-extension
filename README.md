@@ -1,7 +1,5 @@
 ## spfx-stocks-extension
 
-This is where you include your WebPart documentation.
-
 ### Building the code
 
 ```bash
@@ -26,3 +24,5 @@ gulp serve --nobrowser
 ![Sample output](https://github.com/peshos/spfx-stocks-extension/blob/master/assets/outputExample.JPG)
 
 ### Blog description
+
+[Blog article](https://blog.ch.atosconsulting.com/how-to-build-spfx-extensions-with-react/)
